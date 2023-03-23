@@ -1,3 +1,5 @@
+#NOTE: This repo is for reference only and is considered Legacy for MexicaNFT. It is therefore archived.
+
 # Sample Hardhat Project
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
